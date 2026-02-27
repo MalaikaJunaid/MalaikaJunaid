@@ -9,19 +9,19 @@
 <p align="center">
   <a href="https://linkedin.com/in/malaikajunaid"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@mmalaika.junaid"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mmalaika.junaid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🔭 Research & Development: SEEVIA
+### Research & Development: SEEVIA
 I am currently engineering an end-to-end assistive ecosystem focusing on two core research dimensions:
 * **Structured Scene Understanding:** Real-time object detection and contextual OCR for personal inventory management.
 * **Adaptive Navigation:** Utilizing **Reinforcement Learning** to enable autonomous pathfinding in dynamic, unmapped indoor environments.
 
 ---
 
-### 🛠️ Core Tech Stack
+### Core Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
@@ -35,25 +35,20 @@ I am currently engineering an end-to-end assistive ecosystem focusing on two cor
 
 ---
 
-### 📊 Performance & Contributions
-<p align="center">
-  <img src="https://img.shields.io/badge/Main_Project-SEEVIA-blueviolet?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Research_Focus-Assistive_Perception-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge" />
-</p>
+### Project Metrics & Research Focus
+
+| **Category** | **Status & Technical Focus** |
+| :--- | :--- |
+| **Main Framework** | ![SEEVIA](https://img.shields.io/badge/Project-SEEVIA-blueviolet?style=flat-square&logo=github) ![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square) |
+| **Research Niche** | ![Assistive Perception](https://img.shields.io/badge/Research-Assistive_Perception-green?style=flat-square) ![Generalization](https://img.shields.io/badge/Environment-Indoor_Generalization-white?style=flat-square&logo=google-maps&logoColor=red) |
+| **Methodology** | ![RL](https://img.shields.io/badge/Learning-Reinforcement_Learning-blue?style=flat-square&logo=robot-framework) ![Architecture](https://img.shields.io/badge/Architecture-Multimodal-yellow?style=flat-square) |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Environment-Indoor_Generalization-white?style=flat-square&logo=google-maps&logoColor=red" />
-  <img src="https://img.shields.io/badge/Learning-Reinforcement_Learning-blue?style=flat-square&logo=robot-framework" />
-  <img src="https://img.shields.io/badge/Architecture-Multimodal-yellow?style=flat-square" />
-</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malaikajunaid&theme=tokyonight&hide_border=true" alt="Malaika's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malaikajunaid&theme=tokyonight&hide_border=true" alt="Malaika's Streak" />
 </p>
 
 ---
 
-### ⚡ Professional Highlights
+### Professional Highlights
 * **Global Perspective:** Alumnus of the Ajman University Student Exchange program (UAE).
 * **Research Interests:** Multimodal Learning, Zero-Shot Generalization, and "Imagination-Inspired" Vision.
