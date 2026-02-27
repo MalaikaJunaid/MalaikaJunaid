@@ -1,45 +1,51 @@
-<h2 align="center">Malaika Junaid</h2>
-<h3 align="center">Coding, AI, and ML Enthusiast | Transforming Ideas into Reality</h3>
-<p align="center">Currently pursuing <b>Bachelors of Artificial Intelligence</b>
-<br><br>
-</p>
+<h1 align="center">Malaika Junaid</h1>
+<h3 align="center">Undergraduate Researcher | AI-Driven Assistive Perception & Sequential Decision Making</h3>
 
-<h3 align="center">Connect Here:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/malaikajunaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malaikajunaid" height="30" width="40" /></a>
-<a href="https://instagram.com/mmalaika.junaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mmalaika.junaid" height="30" width="40" /></a>
-<a href="https://medium.com/@mmalaika.junaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mmalaika.junaid" height="30" width="40" /></a>
-<br><br>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-</a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-</a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a> 
+  <b>Final Year Student (8th Sem) at COMSATS University Islamabad</b><br>
+  Currently developing <b>SEEVIA</b>: A multimodal perception framework for the visually impaired.
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malaikajunaid&show_icons=true&locale=en&layout=compact" alt="malaikajunaid" />
+  <a href="https://linkedin.com/in/malaikajunaid" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@mmalaika.junaid" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+
+---
+
+### 🔭 Research & Development: SEEVIA
+I am currently engineering an end-to-end assistive ecosystem focusing on two core research dimensions:
+* **Structured Scene Understanding:** Real-time object detection and contextual OCR for personal inventory management.
+* **Adaptive Navigation:** Utilizing **Reinforcement Learning** to enable autonomous pathfinding in dynamic, unmapped indoor environments.
+
+---
+
+### 🛠️ Core Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malaikajunaid&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=malaikajunaid&show_icons=true&theme=vision-friendly-dark" alt="Malaika's Stats" />
+</p>
+
+---
+
+### ⚡ Beyond the Code
+* **Global Exposure:** Alumnus of the Ajman University Student Exchange program (UAE).
+* **Interests:** Exploring the intersection of Cognitive Science and Generative Vision.
