@@ -37,13 +37,14 @@ I am currently engineering an end-to-end assistive ecosystem focusing on two cor
 
 ### 📊 Performance & Contributions
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=malaikajunaid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Malaika's Stats" height="180" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malaikajunaid&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=malaikajunaid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Malaika's Stats" height="180" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malaikajunaid&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malaikajunaid&theme=tokyonight&hide_border=true" alt="Malaika's Streak" />
 </p>
+
 ---
 
 ### ⚡ Professional Highlights
