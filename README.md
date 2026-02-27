@@ -37,8 +37,15 @@ I am currently engineering an end-to-end assistive ecosystem focusing on two cor
 
 ### 📊 Performance & Contributions
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=malaikajunaid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Malaika's Stats" height="180" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malaikajunaid&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://img.shields.io/badge/Main_Project-SEEVIA-blueviolet?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Research_Focus-Assistive_Perception-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Environment-Indoor_Generalization-white?style=flat-square&logo=google-maps&logoColor=red" />
+  <img src="https://img.shields.io/badge/Learning-Reinforcement_Learning-blue?style=flat-square&logo=robot-framework" />
+  <img src="https://img.shields.io/badge/Architecture-Multimodal-yellow?style=flat-square" />
 </p>
 
 <p align="center">
