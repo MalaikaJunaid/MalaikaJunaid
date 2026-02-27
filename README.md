@@ -1,9 +1,9 @@
 <h1 align="center">Malaika Junaid</h1>
-<h3 align="center">Undergraduate Researcher | AI-Driven Assistive Perception & Sequential Decision Making</h3>
+<h3 align="center">AI Researcher & ML Engineer | Assistive Perception & Autonomous Navigation</h3>
 
 <p align="center">
   <b>Final Year Student (8th Sem) @ COMSATS University Islamabad</b><br>
-  Developing <b>SEEVIA</b>: A multimodal framework for adaptive indoor navigation and scene understanding.
+  Engineering <b>SEEVIA</b>: A multimodal AI ecosystem for real-time scene understanding and adaptive indoor mapping.
 </p>
 
 <p align="center">
@@ -14,34 +14,32 @@
 
 ---
 
-### Research & Development: SEEVIA
-I am currently engineering an end-to-end assistive ecosystem focusing on two core research dimensions:
-* **Structured Scene Understanding:** Real-time object detection and contextual OCR for personal inventory management.
-* **Adaptive Navigation:** Utilizing **Reinforcement Learning** to enable autonomous pathfinding in dynamic, unmapped indoor environments.
+### Featured Project: SEEVIA
+I am developing an end-to-end assistive framework focusing on two core domains:
+* **Perception Engine (CV/NLP):** Real-time **CNN-based** object detection and contextual **OCR** for automated personal inventory and safety monitoring (Fall Detection).
+* **Autonomous Navigation (RL):** Implementing **Deep Reinforcement Learning** to enable agents to generalize and pathfind across dynamic, unmapped indoor environments.
 
 ---
 
-### Core Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-</p>
+### Technical Proficiencies
+
+| **Domain** | **Technologies & Architectures** |
+| :--- | :--- |
+| **Computer Vision (CV)** | CNNs, YOLOv8, OCR (Tesseract/Google Vision), Image Segmentation |
+| **Machine Learning (ML)** | Reinforcement Learning (DQN), Supervised Learning, Predictive Modeling |
+| **Natural Language (NLP)** | Intent Recognition, Speech-to-Text (STT), Text-to-Speech (TTS) |
+| **Engineering / Ops** | Python, PyTorch, TensorFlow Lite, FastAPI, Firebase, Git |
+| **Mobile Development** | React Native, Expo (Cross-platform AI deployment) |
 
 ---
 
-### Project Metrics & Research Focus
+### Project Metrics & Impact
 
 | **Category** | **Status & Technical Focus** |
 | :--- | :--- |
 | **Main Framework** | ![SEEVIA](https://img.shields.io/badge/Project-SEEVIA-blueviolet?style=flat-square&logo=github) ![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square) |
-| **Research Niche** | ![Assistive Perception](https://img.shields.io/badge/Research-Assistive_Perception-green?style=flat-square) ![Generalization](https://img.shields.io/badge/Environment-Indoor_Generalization-white?style=flat-square&logo=google-maps&logoColor=red) |
-| **Methodology** | ![RL](https://img.shields.io/badge/Learning-Reinforcement_Learning-blue?style=flat-square&logo=robot-framework) ![Architecture](https://img.shields.io/badge/Architecture-Multimodal-yellow?style=flat-square) |
+| **Research Niche** | ![Assistive Perception](https://img.shields.io/badge/Research-Assistive_Perception-green?style=flat-square) ![Generalization](https://img.shields.io/badge/Zero--Shot-Navigation-white?style=flat-square) |
+| **Deployment** | ![Edge AI](https://img.shields.io/badge/Deployment-Edge_AI-blue?style=flat-square&logo=google-cloud) ![Architecture](https://img.shields.io/badge/Architecture-Multimodal-yellow?style=flat-square) |
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=malaikajunaid&theme=tokyonight&hide_border=true" alt="Malaika's Streak" />
@@ -49,6 +47,6 @@ I am currently engineering an end-to-end assistive ecosystem focusing on two cor
 
 ---
 
-### Professional Highlights
-* **Global Perspective:** Alumnus of the Ajman University Student Exchange program (UAE).
-* **Research Interests:** Multimodal Learning, Zero-Shot Generalization, and "Imagination-Inspired" Vision.
+### Highlights
+* **Global Exposure:** Alumnus of the Ajman University Student Exchange program (UAE).
+* **Interests:** High-performance **Edge AI**, Multimodal Data Fusion, and Generalization beyond fixed supervised settings.
