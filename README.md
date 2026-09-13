@@ -1,9 +1,9 @@
 <h1 align="center">Malaika Junaid</h1>
-<h3 align="center">AI Researcher & ML Engineer | Assistive Perception & Autonomous Navigation</h3>
+<h3 align="center">AI Engineer | Generative AI, RAG & Multi-Agent Systems | Computer Vision</h3>
 
 <p align="center">
-  <b>Final Year Student (8th Sem) @ COMSATS University Islamabad</b><br>
-  Engineering <b>SEEVIA</b>: A multimodal AI ecosystem for real-time scene understanding and adaptive indoor mapping.
+  <b>Award-Winning AI Developer & Director @ GDG Cloud Emirates</b><br>
+  Building autonomous agents, scalable ML pipelines, and production-ready AI ecosystems.
 </p>
 
 <p align="center">
@@ -14,22 +14,41 @@
 
 ---
 
-### Featured Project: SEEVIA
-I am developing an end-to-end assistive framework focusing on two core domains:
-* **Perception Engine (CV/NLP):** Real-time **CNN-based** object detection and contextual **OCR** for automated personal inventory and safety monitoring (Fall Detection).
-* **Autonomous Navigation (RL):** Implementing **Deep Reinforcement Learning** to enable agents to generalize and pathfind across dynamic, unmapped indoor environments.
+## 🚀 Featured Projects
+
+### 🏆 SEEVIA: Multimodal Assistive Perception Ecosystem
+* **Status:** 🥇 1st Prize in Artificial Intelligence (University Career Expo, May 2026)
+* **Architecture:** An end-to-end framework designed for real-time scene understanding, safety monitoring, and autonomous indoor navigation for visually impaired users.
+* **Perception Engine:** Real-time object detection (**YOLOv11**), CNN-based fall detection, and OCR pipelines using Tesseract/Google Vision.
+* **Autonomous Navigation:** Deep Q-Learning (**DQN**) for zero-shot indoor pathfinding across dynamic, unmapped environments.
+* **Deployment:** Optimized for edge computing with **TensorFlow Lite**, utilizing **FastAPI** microservices and **React Native** for cross-platform access.
+
+### 🧠 Generative AI & Autonomous Agents
+* **Enterprise RAG Pipelines:** Built robust retrieval-augmented generation systems integrating vector databases (Pinecone/FAISS) for efficient semantic search and context-aware LLM processing.
+* **Multi-Agent Orchestration:** Designed autonomous reasoning and task execution workflows using **LangChain** and **LangGraph** to bridge the gap between open-source models and enterprise data.
+* **Model Optimization:** Fine-tuned deep learning models using **PyTorch** and prototyped automated data preprocessing pipelines to support scalable AI architectures.
 
 ---
 
-### Technical Proficiencies
+## 🛠️ Technical Proficiencies
 
-| **Domain** | **Technologies & Architectures** |
+| **Domain** | **Technologies & Frameworks** |
 | :--- | :--- |
-| **Computer Vision (CV)** | CNNs, YOLOv8, OCR (Tesseract/Google Vision), Image Segmentation |
-| **Machine Learning (ML)** | Reinforcement Learning (DQN), Supervised Learning, Predictive Modeling |
-| **Natural Language (NLP)** | Intent Recognition, Speech-to-Text (STT), Text-to-Speech (TTS) |
-| **Engineering / Ops** | Python, PyTorch, TensorFlow Lite, FastAPI, Firebase, Git |
-| **Mobile Development** | React Native, Expo (Cross-platform AI deployment) |
+| **Generative AI & LLMs** | LangChain, LangGraph, RAG, Hugging Face Transformers, vLLM, Prompt Engineering |
+| **Computer Vision & RL** | YOLOv11, PyTorch, OpenCV, CNNs, Deep Q-Learning (DQN) |
+| **Backend & Infrastructure** | Python, FastAPI, SQL, REST APIs, Git, Docker, CI/CD, Kubernetes (Learning) |
+| **Cloud & Edge AI** | Google Cloud Platform (GCP), AWS, TensorFlow Lite, Firebase |
+| **Full-Stack / Mobile** | Next.js, React Native, Expo |
+
+---
+
+## 🌍 Experience & Community Leadership
+
+* **Director @ GDG Cloud Emirates:** Leading regional community initiatives, evaluating emerging AI toolchains, and architecting cloud-native workshops across the UAE.
+* **Machine Learning Intern @ Ezitech:** Architected GenAI prototypes, integrated vector databases, and fine-tuned PyTorch models for backend Python services.
+* **Software Engineering Fellow @ Headstarter AI:** Deployed multiple AI-powered applications operating in rigorous CI/CD engineering sprints.
+* **Founder & Mentor @ COMSATS AI Society (CAIS):** Established a university-wide tech organization to advance student capabilities in neural networks and model deployment.
+* **Global Exposure:** Completed a full academic exchange year studying Data Analytics at Ajman University (UAE).
 
 ---
 
@@ -41,12 +60,12 @@ I am developing an end-to-end assistive framework focusing on two core domains:
 | **Research Niche** | ![Assistive Perception](https://img.shields.io/badge/Research-Assistive_Perception-green?style=flat-square) ![Generalization](https://img.shields.io/badge/Zero--Shot-Navigation-white?style=flat-square) |
 | **Deployment** | ![Edge AI](https://img.shields.io/badge/Deployment-Edge_AI-blue?style=flat-square&logo=google-cloud) ![Architecture](https://img.shields.io/badge/Architecture-Multimodal-yellow?style=flat-square) |
 
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=malaikajunaid&theme=tokyonight&hide_border=true" alt="Malaika's Streak" />
 </p>
 
 ---
 
-### Highlights
-* **Global Exposure:** Alumnus of the Ajman University Student Exchange program (UAE).
-* **Interests:** High-performance **Edge AI**, Multimodal Data Fusion, and Generalization beyond fixed supervised settings.
+## 📬 Connect with Me
+Whether you are building multi-agent LLM systems, optimizing models for the edge, or architecting cloud AI infrastructure—my inbox is open for technical collaboration and full-time opportunities across the UAE and beyond.
