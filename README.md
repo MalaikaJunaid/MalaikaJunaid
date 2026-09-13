@@ -52,15 +52,6 @@
 
 ---
 
-### Project Metrics & Impact
-
-| **Category** | **Status & Technical Focus** |
-| :--- | :--- |
-| **Main Framework** | ![SEEVIA](https://img.shields.io/badge/Project-SEEVIA-blueviolet?style=flat-square&logo=github) ![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square) |
-| **Research Niche** | ![Assistive Perception](https://img.shields.io/badge/Research-Assistive_Perception-green?style=flat-square) ![Generalization](https://img.shields.io/badge/Zero--Shot-Navigation-white?style=flat-square) |
-| **Deployment** | ![Edge AI](https://img.shields.io/badge/Deployment-Edge_AI-blue?style=flat-square&logo=google-cloud) ![Architecture](https://img.shields.io/badge/Architecture-Multimodal-yellow?style=flat-square) |
-
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=malaikajunaid&theme=tokyonight&hide_border=true" alt="Malaika's Streak" />
 </p>
