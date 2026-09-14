@@ -59,4 +59,4 @@
 ---
 
 ## 📬 Connect with Me
-Whether you are building multi-agent LLM systems, optimizing models for the edge, or architecting cloud AI infrastructure—my inbox is open for technical collaboration and full-time opportunities across the UAE and beyond.
+Whether you are building multi-agent LLM systems, optimizing models for the edge, or architecting cloud AI infrastructure ~ my inbox is open for technical collaboration and full-time opportunities across the UAE and beyond.
